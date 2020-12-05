@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋 Hi there, I am Nandish
 
-<!--
-**nand6m/nand6m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=nand6m.nand6m)
+[![GitHub followers](https://img.shields.io/github/followers/nand6m.svg?style=social&label=Follow)](https://github.com/nand6m?tab=followers)
 
-Here are some ideas to get you started:
+### Brief Summary
+- Passionate about Cloud, Web applications & Machine Learning
+- MS in Computer Engineering 
+- 5+ years of Software development experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Nandish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nand6m&count_private=true&show_icons=true&theme=algolia&hide=prs,issues,contribs )  
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nand6m&langs_count=5&hide=swift)

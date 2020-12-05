@@ -1,8 +1,5 @@
 ### 👋 Hi there, I am Nandish
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=nand6m.nand6m)
-[![GitHub followers](https://img.shields.io/github/followers/nand6m.svg?style=social&label=Follow)](https://github.com/nand6m?tab=followers)
-
 ### Brief Summary
 - Passionate about Cloud, Web applications & Machine Learning
 - MS in Computer Engineering 
